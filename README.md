@@ -20,7 +20,7 @@ A shopper who has been flyered becomes a target for advertisers. Any wandering a
 
 A number is indicated above every advertiser to designate the amount of successful sale pitches they have delivered.
 
-*Steering Forces used for Advertiser*: I used Separation, a further repulsion velocity (for advertiser against advertiser), wander and Follow the Leader.I also use a further repulsion velocity that makes sure the advertisers stay within the bounds of the mall. It is a preventive measure. If the advertiser gets too close to the top, bottom, left or right bounds, this velocity is applied. 
+*Steering Forces used for Advertiser*: I used Separation, a further repulsion velocity (for advertiser against advertiser), wander and Follow the Leader. I also use a further repulsion velocity that makes sure the advertisers stay within the bounds of the mall. It is a preventive measure. If the advertiser gets too close to the top, bottom, left or right bounds, this velocity is applied. 
 
 **Tinker with the Controls**
 
