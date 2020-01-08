@@ -22,5 +22,7 @@ A number is indicated above every advertiser to designate the amount of successf
 
 *Steering Forces used for Advertiser*: I used Separation, a further repulsion velocity (for advertiser against advertiser), wander and Follow the Leader.I also use a further repulsion velocity that makes sure the advertisers stay within the bounds of the mall. It is a preventive measure. If the advertiser gets too close to the top, bottom, left or right bounds, this velocity is applied. 
 
+**Tinker with the Controls**
+
 You can change the advertising rate k, probability p, sales pitch distance r, observation distance s, shopper spawn rate (the number corresponds to how many seconds pass between instantiating one shopper), and total number of advertisers within the "Board Manager" script component in the "Floor" game object at the top of the hierarchy. At the beginning these are all set to 0 except for shopper spawn rate and k. 
 
