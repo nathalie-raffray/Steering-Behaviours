@@ -26,3 +26,4 @@ A number is indicated above every advertiser to designate the amount of successf
 
 You can change the advertising rate k, probability p, sales pitch distance r, observation distance s, shopper spawn rate (the number corresponds to how many seconds pass between instantiating one shopper), and total number of advertisers within the "Board Manager" script component in the "Floor" game object at the top of the hierarchy. At the beginning these are all set to 0 except for shopper spawn rate and k. 
 
+![](name-of-giphy.gif)
