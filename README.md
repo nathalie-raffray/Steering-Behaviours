@@ -2,7 +2,7 @@
 
 Simulated movement of shoppers and advertisers within a mall using steering behaviours
 
-Mall environment with shops on top and bottom, and tables, chairs and planters in between shops. The quantity and position of the tables, chairs and planters varies at each playthrough.
+Mall environment with shops on top and bottom, and tables, chairs and planters in between shops. The quantity and position of the tables, chairs and planters vary at each playthrough.
 
 **Shoppers**
 
